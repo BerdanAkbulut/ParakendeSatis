@@ -1,0 +1,8 @@
+@import url('./views/hello-world-view.css');
+@import url('./views/about-view.css');
+@import url('lumo-css-framework/all-classes.css');    html {
+      --lumo-primary-text-color: hsl(214, 52%, 51%);
+      --lumo-body-text-color: hsla(214, 35%, 32%, 0.94);
+      --lumo-border-radius: calc(var(--lumo-size-m) / 2);
+
+    }
