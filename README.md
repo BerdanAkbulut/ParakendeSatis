@@ -20,11 +20,13 @@ Database Diagram :
 
 ![DatabaseDiagram](https://user-images.githubusercontent.com/61564008/124212344-7cc51480-daf7-11eb-9ad0-5eddf068f88b.png)
 
-
  # Arayüz 
+ 
+ 
 
 Home Page :
-![Home](https://user-images.githubusercontent.com/61564008/124213662-a54e0e00-daf9-11eb-9108-fcb79d919a87.png)
+![Home](https://user-images.githubusercontent.com/61564008/124214136-6e2c2c80-dafa-11eb-9906-d8166953a467.png)
+
 
 Login Page : 
 ![Uploading login.png…]()
