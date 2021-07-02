@@ -11,7 +11,9 @@
     padding: var(--lumo-space-m);
 }
 .ana {
-    background-color: #0b8043;
+    background-image: url("bb.jpg");
+    background-size: cover;
+
 }
 
 @media all and (max-width: 1100px) {

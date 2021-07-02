@@ -1,0 +1,10 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+autonumber
+
+MagazaLogin -> Database: Authentication Request
+AdminLogin --> Database: Authentication Response
+
+
+@enduml

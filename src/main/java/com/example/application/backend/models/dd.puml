@@ -1,0 +1,32 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+interface JpaRepsitory
+interface Services
+interface Repositories
+class ServiceUmls
+class Models
+class Views
+class VerticalLayout
+
+Repositories <|-- JpaRepsitory
+
+
+ServiceUmls <|-- Services
+
+Views <|-- VerticalLayout
+
+
+
+class Models {
+id (int)
+properties
+
+}
+
+enum SatisTipi {
+KREDI_KARTI
+NAKIT
+}
+
+@enduml
